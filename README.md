@@ -31,7 +31,7 @@ Here are some emojis:
 - 🔥 : Fire
 - 🧩 : Puzzle piece
 - 💡 : Lightbulb
-- 🌐 : Globe 
+- 🌎 : Globe 
 - 🐱 : Cat
 
 Markdown allows you to style your text in many ways:  
