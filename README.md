@@ -33,6 +33,16 @@ Here are some emojis:
 - 💡 : Lightbulb
 - 🌎 : Globe 
 - 🐱 : Cat
+- 📅 : Calendar
+- ⏰ : Alarm clock
+- ✈️ : Airplane
+- 🎧 : Headphone
+- 💻 : Laptop
+- 🔑 : Key
+- 🧘‍♀️ : Person in lotus position
+- 🏆 : Trophy
+- ⚙️ : Gear
+- 📦 : Package
 
 Markdown allows you to style your text in many ways:  
 **Bold** - Give **emphasis**.  
