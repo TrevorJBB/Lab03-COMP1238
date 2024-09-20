@@ -39,7 +39,7 @@ Here are some emojis:
 - 🎧 : Headphone
 - 💻 : Laptop
 - 🔑 : Key
-- 🧘‍♀️ : Person in lotus position
+- 🧘‍♀️ : Person doing yoga
 - 🏆 : Trophy
 - ⚙️ : Gear
 - 📦 : Package
