@@ -56,7 +56,7 @@ MD also lets you display code blocks as well by doing the following:
 print("Hello, world!")
 ```  
 ## This is something cool that I found researching markdown tricks.  You can make a calendar, or really any kind of table.
-# September 2024
+### September 2024
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
