@@ -13,6 +13,18 @@
 - `_` - Underscore
 - `+` - Plus sign
 
+# Keyboard Shortcuts
+
+Some shortcuts I frequently use:
+- `Win`+`Shift`+`S` - Allows you to take a screenshot  
+- `Crtl`+`C` - Copy a selection
+- `Ctrl`+ `V` - Paste a selection
+
+Some Shortcuts I would like to start using:
+- `Alt`+`Tab` - Switch between apps
+- `Win`+`V` - Allows you to see your clipboard (previous copied items)
+- `Win`+`tab` - Switch between virtual desktops
+
 # Links
 
 - [W3Schools](https://www.w3schools.com/)
