@@ -30,6 +30,7 @@ Some Shortcuts I would like to start using:
 - [W3Schools](https://www.w3schools.com/)
 - [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [CLI commands](docs/cli.md)
 
 # Experiments
 
