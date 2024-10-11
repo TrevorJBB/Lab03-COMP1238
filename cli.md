@@ -14,4 +14,8 @@
 
     - While working in the CLI, if you run the mkdir command it will create a new directory for you.
 
+## What does the `rmdir` command do while working in the CLI?
+
+    - While working in the CLI, if you run the rmdir command it will remove a new directory for you.
+
 ### [Back](README.md)
