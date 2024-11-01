@@ -23,8 +23,8 @@
         "name": "Serena Williams", //string
         "sport": "Tennis", //string
         "team": {
-            "name": "N/A",
-            "city": "N/A"
+            "name": null,
+            "city": null
         }, //object
         "position": "Player", //string
         "age": 41 //number
