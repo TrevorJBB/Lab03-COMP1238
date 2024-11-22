@@ -1,3 +1,4 @@
+-- Trevor Brandt-Bos
 -- List of all succesful queries
 
 -- Adds a dash in between the course name and semester. 
